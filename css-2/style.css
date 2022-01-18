@@ -1,0 +1,91 @@
+ /* Nav Styles strst */
+ main{
+margin-left: 100px ;
+margin-right: 100px;
+background-color: whitesmoke;
+padding: 50PX;
+ }
+ nav ul{
+    display: flex;}
+   nav{
+       display: flex;
+      
+      
+   }
+header nav ul li a {
+    color: black;
+    text-decoration:none;
+    margin-right: 20px;
+  
+}
+li{
+    list-style: none;
+} 
+i{
+    margin-right: 20px;
+}
+ul{
+  margin-left: 50%;
+}
+
+/* Start journey styles */
+    
+.journey{
+    width: 40%;
+}
+  .container{
+      display: flex;
+      
+  } 
+  .back{
+      margin-left: 400px;  
+      background-image: url(back-1.png); 
+     
+     
+  }
+  .button a{
+      text-decoration: none;
+      background-color:rgb(236, 47, 47);
+      color: whitesmoke;
+      padding: 10px;
+      border-radius: 25px;
+      margin-top: 0;
+  }
+
+  /* middel Container */
+  .grid-container{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    grid-gap: 20px 20px;
+   background-color: whitesmoke;
+}
+.grid-cell{
+    grid-gap: 10px;
+   grid-column-gap: 10px;
+   background-color: white;
+   border-radius: 5px;
+}
+  #POPU{
+      text-align: center;
+      margin: 50px;
+  }
+  .fa-star{
+      color: gold;
+  }
+  #see-mere {
+    text-decoration: none;
+  
+    color: rgb(236, 47, 47);
+    
+  margin-left: 90%;
+  
+  }
+  .foter{
+      margin-top: 50px;
+      color: white;
+      background-color: rgba(4, 1, 36, 0.87);
+      text-align: center;
+      padding: 20px;
+  }
+  
+   
