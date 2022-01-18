@@ -89,5 +89,19 @@ ul{
       text-align: center;
       padding: 20px;
   }
-  
+               
+           /* Flex Responsive */
+
+@media only screen and( max-width : 388px;) 
+{
+    display: grid;
+    grid-template-columns: repeat(1,1fr); 
+    
+}
+
+    @media only screen and (max-width:988px ) {
+        
+    }
+
    
+    
