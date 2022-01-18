@@ -64,6 +64,8 @@ ul{
    grid-column-gap: 10px;
    background-color: white;
    border-radius: 5px;
+   padding-left: 15px;
+   padding-top: 15px;
 }
   #POPU{
       text-align: center;
